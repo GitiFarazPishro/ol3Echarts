@@ -30,7 +30,7 @@ const genConfig = (opts) => {
         }),
         cjs()
       ],
-      external: ['echarts', 'openlayers']
+      external: ['echarts', 'echarts-gl', 'openlayers']
     },
     output: {
       file: opts.file,

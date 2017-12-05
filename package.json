@@ -31,7 +31,8 @@
     "karma.tdd": "karma start build/karma.tdd.config.js"
   },
   "dependencies": {
-    "echarts": "^3.3.2",
+    "echarts": "^3.8.5",
+    "echarts-gl": "^1.0.0-beta.6",
     "openlayers": "^4.5.0"
   },
   "devDependencies": {
